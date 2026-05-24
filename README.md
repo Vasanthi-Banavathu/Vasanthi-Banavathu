@@ -1,11 +1,11 @@
 # Hi 👋 I'm Vasanthi
 
 🎓 B.Tech Student at Indian Institute of Information Technology, Allahabad  
-💻 Aspiring Software Engineer | AI + Cybersecurity Enthusiast  
+ Aspiring Software Engineer | AI + Cybersecurity Enthusiast  
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a Computer Science undergraduate at **IIIT Allahabad**, passionate about building software that is both useful and secure.
 
@@ -15,7 +15,7 @@ I am currently focused on improving my skills in **software development, system 
 
 ---
 
-## 🧠 Interests
+##  Interests
 
 - Full Stack Web Development  
 - Artificial Intelligence & Machine Learning  
@@ -25,112 +25,80 @@ I am currently focused on improving my skills in **software development, system 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 - C++
 - Python
 - Java
 
-### 🌐 Web Development
+###  Web Development
 - HTML, CSS, JavaScript  
 - Flask (Python Backend)
 
-### 🗄️ Databases
+###  Databases
 - MySQL  
 - PostgreSQL  
 
-### 🔐 Tools & Security
+###  Tools & Security
 - Git & GitHub  
 - OWASP ZAP (Security Testing)  
 - Bandit (Static Code Analysis)  
 - Postman (API Testing)
 
-### 🤖 Machine Learning
+###  Machine Learning
 - PyTorch (Basics)  
 - Computer Vision Fundamentals  
 - Feature Extraction & Deep Learning Concepts  
 
 ---
-
 ## 📌 Projects
 
----
-
-### 🛒 E-Commerce Book Platform (Full Stack Web Application)
-
-A complete web application for browsing, ordering, and managing books with separate user and admin roles.
-
-#### 🔹 What it does
-- Users can register, log in, and browse books  
-- Add books to cart and place orders  
-- Rate and review books  
-- View order history and manage profiles  
-- Support messaging system for queries  
-
-#### 🔹 Admin side
-- Add, edit, and delete books  
-- Manage users and categories  
-- View and process orders  
-- Handle support requests  
-
-#### 🔹 Tech used
-- Flask (Backend)  
-- PostgreSQL / MySQL  
-- HTML, CSS, JavaScript  
-
-#### 🔹 What I learned
-This project helped me understand how full-stack systems are designed — especially how frontend, backend, and database work together in a real application.
-
----
-
-
-
-### 🔬 Object Counting Research Project (Deep Learning)
+###  Object Counting Research Project (Deep Learning)
 
 A computer vision project focused on detecting and counting objects in complex and crowded scenes using few examples.
 
-#### 🔹 Goal
+####  Goal
 To build a model that can count objects even when only a few reference examples are given.
 
-#### 🔹 Highlights
+####  Highlights
 - Multi-scale feature extraction for better detection  
 - Exemplar-based learning approach  
 - Handles dense and overlapping objects  
 - Improved accuracy using query aggregation techniques  
 
-#### 🔹 Tools & Tech
+####  Tools & Tech
 - Python  
 - PyTorch  
 - SAM2 (Segment Anything Model 2)  
 - Hiera backbone architecture  
 
-#### 🔹 Applications
+####  Applications
 - Crowd counting systems  
 - Medical imaging analysis  
 - Surveillance systems  
 - Industrial inspection tasks  
 
-#### 🔹 What I learned
+####  What I learned
 This project gave me exposure to real research-level problem solving in computer vision and deep learning pipelines.
 
 ---
 
 
 
-### 🛡️ Flask Web Security Assessment (Cybersecurity Project)
+###  Flask Web Security Assessment (Cybersecurity Project)
 
 A security-focused project where I analyzed and exploited vulnerabilities in a Flask web application, then fixed them using secure coding practices.
 
-#### 🔹 Objective
+####  Objective
 To understand how real-world web applications are attacked and how to protect them.
 
-#### 🔹 Testing methods
+####  Testing methods
 - SAST using Bandit  
 - DAST using OWASP ZAP  
 - CVSS scoring and MITRE ATT&CK mapping  
 
-#### 🔹 Major issues found
+####  Major issues found
 - SQL Injection (Critical)  
 - Cross-Site Scripting (XSS)  
 - Broken Access Control  
@@ -138,7 +106,7 @@ To understand how real-world web applications are attacked and how to protect th
 - Session Hijacking risks  
 - Missing security headers  
 
-#### 🔹 Attack simulation
+####  Attack simulation
 A full attack flow was tested:
 1. Brute force login  
 2. SQL Injection → database access  
@@ -147,7 +115,7 @@ A full attack flow was tested:
 5. Data extraction and modification  
 6. Log tampering  
 
-#### 🔹 Fixes applied
+####  Fixes applied
 - Parameterized SQL queries  
 - Password hashing (Werkzeug)  
 - Role-based access control (RBAC)  
@@ -155,12 +123,42 @@ A full attack flow was tested:
 - Input validation & sanitization  
 - Security headers (CSP, X-Frame-Options, etc.)  
 
-#### 🔹 Outcome
+####  Outcome
 This project helped me understand how vulnerabilities connect to each other in a chain and how proper secure coding can break the entire attack flow.
 
 ---
 
-## 📊 Skills Summary
+### E-Commerce Book Platform (Full Stack Web Application)
+
+A complete web application for browsing, ordering, and managing books with separate user and admin roles.
+
+####  What it does
+- Users can register, log in, and browse books  
+- Add books to cart and place orders  
+- Rate and review books  
+- View order history and manage profiles  
+- Support messaging system for queries  
+
+####  Admin side
+- Add, edit, and delete books  
+- Manage users and categories  
+- View and process orders  
+- Handle support requests  
+
+####  Tech used
+- Flask (Backend)  
+- PostgreSQL / MySQL  
+- HTML, CSS, JavaScript  
+
+####  What I learned
+This project helped me understand how full-stack systems are designed — especially how frontend, backend, and database work together in a real application.
+
+---
+
+ 
+---
+
+##  Skills Summary
 
 ✔ Full Stack Web Development  
 ✔ Database Design & Management  
@@ -171,7 +169,7 @@ This project helped me understand how vulnerabilities connect to each other in a
 
 ---
 
-## 📈 Currently Working On
+##  Currently Working On
 
 - Strengthening DSA for placements  
 - Building more real-world projects  
@@ -180,10 +178,10 @@ This project helped me understand how vulnerabilities connect to each other in a
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 Email: **vasanthibanavathu17@gmail.com**    
-💻 GitHub: Vasanthi-Banavathu  
+ Email: **vasanthibanavathu17@gmail.com**    
+ GitHub: Vasanthi-Banavathu  
 
 ---
 
